@@ -26,7 +26,7 @@ function Product() {
 
 
   return (
-    <div>Product
+    <div>
         <h3>Welcome to our store</h3>
         {
             products.map((value, index) => {
